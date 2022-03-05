@@ -4,7 +4,7 @@ Ninja ninja = new Ninja("Wedge", 10, "Ninja", 1001, 38);
 Wizard wizard = new Wizard("Jennica", 23, "White Wizard", 635, 100);
 Boss boss = new Boss("Lord of Darkness", 100, "Boss", 1000, 120);
 
-System.Console.WriteLine($"Bem vindo ao RPG Game!\nO game se baseia em uma batalha final entre um Herói e um Boss, com o intuito de salvar o planeta da escassez de um fluido vital para a sobrevivência da população.");
+System.Console.WriteLine($"Bem vindo ao RPG Game!\nA aplicação é uma abstração de um jogo RPG fictício, que se baseia em uma batalha final entre Heróis e um Boss, com o intuito de salvar o planeta da escassez de um fluido vital para a sobrevivência da população.");
 Menu();
 Functions();
 

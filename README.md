@@ -13,5 +13,5 @@ O projeto consiste em uma aplicação de console em .NET, que se baseia em um jo
 
 ##
 
-<img src="../jogorpg/src/img/tela1.png"/>
+<img src="/jogorpg/src/img/tela1.png"/>
 
